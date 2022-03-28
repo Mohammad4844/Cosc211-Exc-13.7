@@ -7,5 +7,5 @@ Quick Links to Files:
 <br>
 [JUnit Test File](Exercise-13.7/test/geometric/TestColorable.java)
 <br>
-[UML Diagram](Exercise-13.7/13.7 UML Diagram.png)
+[UML Diagram](Exercise-13.7/13.7-UML-Diagram.png)
 <br>
