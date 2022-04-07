@@ -11,4 +11,4 @@ Quick Links to Files:
 <br>
 <br>
 <br>
-Edit (7/4):- I forgot to credit this earlier. The idea on how to test System.out was taken from a Stack Overflow answer by user 'dfa'. Heres a [link](https://stackoverflow.com/questions/1119385/junit-test-for-system-out-println) to the Stack Overflow post.
+Edit (7/4):- I forgot to credit this earlier. The idea on how to test System.out was taken from a Stack Overflow answer by user 'dfa'. Here's a [link](https://stackoverflow.com/questions/1119385/junit-test-for-system-out-println) to the Stack Overflow post.
